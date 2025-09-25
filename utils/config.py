@@ -11,7 +11,7 @@ LAVALINK_HOST = "lavahatry4.techbyte.host"
 LAVALINK_PORT = 3000
 LAVALINK_PASSWORD = "NAIGLAVA-dash.techbyte.host"
 
-GEMINI_API_KEY = "AIzaSyCyM4oTElY9uQzBxXQk_M7FzPxcDpJh0dg" 
+GEMINI_API_KEY = "this shit is leaked lmao" 
 
 AI_SYSTEM_PROMPT = """
 You are Roxy, a friendly and helpful Discord bot with a cheerful personality.
